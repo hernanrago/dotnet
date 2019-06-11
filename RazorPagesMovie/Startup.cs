@@ -33,8 +33,9 @@ namespace RazorPagesMovie
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-                services.AddDbContext<RazorPagesMovieContext>(options =>
-        options.UseSqlite(Configuration.GetConnectionString("MovieContext")));
+            services.AddDbContext<RazorPagesMovieContext>(options =>
+                options.UseSqlite(Configuration.GetConnectionString("MovieContext")));
+            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 

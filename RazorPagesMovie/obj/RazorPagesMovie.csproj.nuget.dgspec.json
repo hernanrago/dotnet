@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/hernanrago/dev/dotnet/RazorPagesMovie/RazorPagesMovie.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\dev\\dotnet\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "/home/hernanrago/dev/dotnet/RazorPagesMovie/RazorPagesMovie.csproj": {
+    "C:\\Users\\Usuario\\Documents\\dev\\dotnet\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hernanrago/dev/dotnet/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\dev\\dotnet\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "/home/hernanrago/dev/dotnet/RazorPagesMovie/RazorPagesMovie.csproj",
-        "packagesPath": "/home/hernanrago/.nuget/packages/",
-        "outputPath": "/home/hernanrago/dev/dotnet/RazorPagesMovie/obj/",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\dev\\dotnet\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\dev\\dotnet\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/hernanrago/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
